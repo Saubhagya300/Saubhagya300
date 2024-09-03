@@ -14,8 +14,8 @@ Continuously learning and staying updated with the latest trends in data analyti
 🌐 Let’s Connect:
 Feel free to explore my repositories and check out some of my projects. If you’re interested in discussing data analytics, sharing ideas, or collaborating on a project, don’t hesitate to reach out!
 
-Email: saubhagyaranjan300@gmail.com
-LInkedin: www.linkedin.com/in/saubhagyaranjansahu
+📧Email: saubhagyaranjan300@gmail.com
+🔗LInkedin: www.linkedin.com/in/saubhagyaranjansahu
 
 <!---
 Saubhagya300/Saubhagya300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
